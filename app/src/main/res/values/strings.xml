@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">JapaneseComposeTest</string>
+    <string name="app_name">JapaneseComposeTest</string>'
+
+    <string name="navigation_item_title_1">예제</string>
+    <string name="navigation_item_title_2">테스트</string>
+    <string name="navigation_item_title_3">메뉴</string>
 </resources>
