@@ -1,7 +1,13 @@
 <resources>
     <string name="app_name">JapaneseComposeTest</string>'
 
-    <string name="navigation_item_title_1">예제</string>
-    <string name="navigation_item_title_2">테스트</string>
-    <string name="navigation_item_title_3">메뉴</string>
+    <string name="navigation_item_title_home">홈</string>
+    <string name="navigation_item_title_hiragana">히라가나</string>
+    <string name="navigation_item_title_gatagana">가타가나</string>
+    <string name="navigation_item_title_word">단어</string>
+
+    <string name="text_home">홈</string>
+    <string name="text_hiragana">히라가나 테스트</string>
+    <string name="text_gatagana">가타가나 테스트</string>
+    <string name="text_word">단어 테스트</string>
 </resources>
